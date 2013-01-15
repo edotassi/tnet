@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1358200329 source:/media/sf_tnet/tnet/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pcap/pcap.h>
+	"ttype.h"
+
+1358200521 /media/sf_tnet/tnet/ttype.h
+	<pcap/pcap.h>
+	"errors.h"
+
+1358188707 /media/sf_tnet/tnet/errors.h
+
+1358200265 source:/media/sf_tnet/tnet/ttype.c
+	"ttype.h"
+
